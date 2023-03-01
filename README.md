@@ -2,7 +2,7 @@
 
 This sales dashboard include metrics such as total Profit by month, sum of amount by sales, sum of quantity by category, sum of amount of customername and sum of quantity by paymentmode.
 
-Overall, a this sales dashboard provides sales managers or company help to monitoring and optimizing their team's performance, improving decision-making, and ultimately driving business growth.
+Overall,this sales dashboard provides sales managers or company help to monitoring and optimizing their team's performance, improving decision-making, and ultimately driving business growth.
 
 SOME INSIGHTS FROM THE DASHBOARD:
 
